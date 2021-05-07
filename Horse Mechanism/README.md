@@ -11,7 +11,7 @@ Furthermore, he uploaded stl files with all the components and instructions for 
 The main components in this project are the Body, Head, Tail, Legs and Holder.
 With the exception of the Head and Tail, every component has multiple subcomponents inside it. 
 
-## Holder
+## 1.Holder
 
 This is the first component that i started with. Inside it there are the base, housing motor and gear. 
 The base is the horizontal part that is grounded and sustians the whole construction. 
@@ -19,4 +19,11 @@ It has a hole in the middle where the housing motor will be placed. The inside o
 The housing motor is the vertical part of the holder in wich the motor and gear will be placed.
 The body will be fixed on the upper part of the housing motor using screws and the other components will fixed on the body. 
 The gear is linked to the motor wich makes it rotate and eventually, creates the entire motion of the horse.
+Inside this components there is also a subcomponent called screws in witch I put the 4 screws that conect the holder with the body.
+
+## 2.Body
+This component is the most complex one (so far). I followed the instructions for the assembly to know in wich order to creat every component.
+For the shape of the body I used a canvas created by downloading the stl file of the [Body Right](https://content.instructables.com/ORIG/F3P/SE05/JG42UTH6/F3PSE05JG42UTH6.stl) and cropping the exact immage that I needed using the snipping tool. I created canvases for most of the components but they were not as important.
+
+
 
