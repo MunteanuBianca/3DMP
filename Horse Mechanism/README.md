@@ -11,7 +11,7 @@ Furthermore, he uploaded stl files with all the components and instructions for 
 The main components in this project are the Body, Head, Tail, Legs and Holder.
 With the exception of the Head and Tail, every component has multiple subcomponents inside it. 
 
-```python
+```
 ## Holder
 This is the first component that i started with. Inside it there are the base, housing motor and gear. 
 The base is the horizontal part that is grounded and sustians the whole construction. It has a hole in the middle where the housing motor will be placed. The inside of the body is empty to reduce the usage of plastic.
