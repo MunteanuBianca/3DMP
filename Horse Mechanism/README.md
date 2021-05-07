@@ -11,8 +11,8 @@ Furthermore, he uploaded stl files with all the components and instructions for 
 The main components in this project are the Body, Head, Tail, Legs and Holder.
 With the exception of the Head and Tail, every component has multiple subcomponents inside it. 
 
-```
 ## Holder
+```
 This is the first component that i started with. Inside it there are the base, housing motor and gear. 
 The base is the horizontal part that is grounded and sustians the whole construction. It has a hole in the middle where the housing motor will be placed. The inside of the body is empty to reduce the usage of plastic.
 The housing motor is the vertical part of the holder in wich the motor and gear will be placed. the body will be fixed on the upper part of the housing motor using screws and the other components will fixed on the body. 
