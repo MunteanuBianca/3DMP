@@ -23,21 +23,19 @@ Inside this components there is also a subcomponent called screws in witch I put
 
 ### 2.Body
 This component is the most complex one (so far). I followed the instructions for the assembly to know in wich order to creat every component.
-For the shape of the body I used a canvas created by downloading the stl file of the [Body Right](https://content.instructables.com/ORIG/F3P/SE05/JG42UTH6/F3PSE05JG42UTH6.stl) and cropping the exact immage that I needed using the snipping tool. I created canvases for most of the components but they were not as important.
-(I will add a folder with all the canvases created)
-First I created the Front Body which was rather easy. I scketched the shape from the canvas and then extruded it.
+For the shape of the body I used a canvas created by downloading the stl file of the [Body Right](https://content.instructables.com/ORIG/F3P/SE05/JG42UTH6/F3PSE05JG42UTH6.stl) and cropping the exact immage that I needed using the snipping tool. 
+First I created the Right Body. I scketched the shape from the canvas and then extruded it.
 Then I created The body spacers which could have also been imported from the McMaster-Car Catalog but I realised that only after I created them.
 They are ment to be supports for objects that need to be fixed to the body but also rotate (tail, head and 2 gears)
 The body spaceres are fixed to both the front and back body with screws.
 For the Idler gears I went back and foth with the dimensions and at the same time changing the dimensions of the holder gear in ored to make them fit together.
-After managing that, I made them even smaller in order to fit them with the other two gears.
-The next step was adding the cams. There are 2 on the front side and have different dimension and they are mirrored on the back side,
+The next step was adding the cams. There are 2 on the right side and have different dimension and they are mirrored on the left side,
 but rotated at 180 degres. They will link the legs motion with the motion from the body gears (that is linked with the rotation of the holder gear).
 At this point, I started adding the joints and motion links to make sure that everything is working fine.
-And in case something doesn't work, I will only have to go back a few steps and it will be easier to spot the mistake.
 I created the tail and the head around their body spaceres and then I added the back body and fixed it with screws.
 
-To be continued...
+### 3. Legs
+I created the Front Right Leg and Back Right Leg and I mirrored these two with copy paste to create the left side legs.
 
 ## Horse Automata Motion
 
